@@ -1,4 +1,4 @@
-# 📞 Telco-Customer-Churn-Prediction-Optimization-and-Machine-Learning-📋
+# 📞 Telco Customer Churn-Prediction + ML Hyperparameter Tuning & Model Optimization 📋
 This project focuses on developing a strategically optimized Machine Learning model to predict customer churn. Using a Random Forest Classifier combined with advanced hyperparameter tuning and threshold optimization, the model identifies at-risk customers with high precision and recall. The project emphasizes the Precision–Recall trade-off and demonstrates how threshold adjustments can significantly increase business impact by reducing missed churn cases.
 
 ---
