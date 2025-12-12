@@ -20,7 +20,7 @@ This project focuses on developing a strategically optimized Machine Learning mo
 
 - Performance Validation: Evaluation using ROC Curve and AUC to measure the model’s predictive power independently of the classification threshold.
 
-- Threshold Optimization: Adjusting the decision threshold from 0.50 to 0.3341, prioritizing Recall and increasing the detection of actual churners from 51% to 74%.
+- Threshold Optimization: Adjusting the decision threshold from 0.50 to 0.3245, prioritizing Recall and increasing the detection of actual churners from 51% to 77%.
 
 - Error Analysis: Applying the Analyze the Best Models and Their Errors methodology to inspect feature importance and understand which attributes most influence churn. 🔬
 
